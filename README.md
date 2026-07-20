@@ -1,181 +1,104 @@
-# 👋 Hi, I'm Omar Tamer
+# Hi, I'm Omar Tamer 👋
 
-<div align="center">
+**Computer and Communication Engineering Student at Zewail City of Science and Technology**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Engineer;Building+Autonomous+%26+Intelligent+Systems;Machine+Learning+Engineer;Embedded+AI+Enthusiast" />
+**AI Engineer | Software Engineer | Embedded AI | Autonomous & Intelligent Systems**
 
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineer-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20AI-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=AI+Engineer;Software+Engineer;Machine+Learning+Engineer;Embedded+AI+Enthusiast;Building+Autonomous+%26+Intelligent+Systems" />
 
 ---
 
 # 🚀 About Me
 
-I am **Omar Tamer**, a **Computer and Communication Engineering student at Zewail City of Science, Technology and Innovation** passionate about designing and developing **AI-powered software and autonomous intelligent systems**.
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about building practical engineering solutions that combine **Artificial Intelligence, Software Engineering, Embedded Systems, and Autonomous Intelligent Systems**.
 
-My main interests lie at the intersection of:
+I enjoy developing AI-powered applications and complete systems that connect intelligent algorithms with real-world problems, from machine learning solutions and software platforms to embedded AI and autonomous systems.
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 💻 Software Engineering
-- 👁️ Computer Vision
-- ⚡ Embedded AI Systems
-- 🦾 Autonomous Systems & Robotics
-- 🌐 Intelligent Applications
+🎓 Communication and Computer Engineering student at **Zewail City of Science and Technology**
 
-I enjoy building complete solutions that combine intelligent algorithms, software architectures, and real-world systems.
+🤖 Interested in **Artificial Intelligence, Machine Learning, Software Engineering, Embedded AI, and Autonomous Systems**
 
-My goal is to develop scalable AI-driven products that solve practical problems and bridge the gap between artificial intelligence and real-world applications.
+🧠 Experienced with machine learning workflows, computer vision applications, generative AI, and intelligent software systems
 
----
+⚡ Passionate about designing complete products combining software intelligence with hardware capabilities
 
-# 🧑‍💻 Engineering Focus
-             AI & Software Engineer
+🌱 Currently improving my skills in advanced AI, LLM applications, AI deployment, and autonomous systems
 
-                     |
-    ---------------------------------------
-    |                  |                  |
-Artificial Intelligence Software Autonomous Systems
-| | |
-Machine Learning Full-Stack Apps Robotics & Embedded AI
-| | |
-Deep Learning Cloud Systems Intelligent Products
-
-
+🎯 Open to internships and collaborations in **AI Engineering, Software Engineering, Embedded AI, and Intelligent Systems**
 
 ---
 
-# 🛠️ Skills & Technologies
+# 🛠️ Tech Stack
 
-## 💻 Programming Languages
+## Programming Languages
 
-- Python
-- C++
-- C#
-- JavaScript
-- SQL
-- MATLAB
-- SystemVerilog
+Python • C++ • C • C# • JavaScript • SQL • MATLAB • SystemVerilog
 
 
-## 🌐 Web Technologies & Frameworks
+## AI / Machine Learning / Data
 
-- HTML
-- CSS
-- Bootstrap
-- .NET Core
+Machine Learning • Deep Learning • Computer Vision • NLP • Generative AI
 
-
-## 🧠 AI & Data Science
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
-- Predictive Modeling
-- Computer Vision
-- Natural Language Processing
+TensorFlow • PyTorch • Hugging Face Transformers • LangChain • OpenCV • Scikit-learn • NumPy • Pandas • Matplotlib • NLTK • spaCy
 
 
-## 🤖 AI & Data Libraries
+## Generative AI
 
-- TensorFlow
-- PyTorch
-- Hugging Face Transformers
-- LangChain
-- OpenCV
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- NLTK
-- spaCy
+LLMs • Retrieval Augmented Generation (RAG) • Prompt Engineering • Embeddings • Vector Databases
 
 
-## 🧬 Generative AI
+## Software Development
 
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- Prompt Engineering
-- Embeddings
-- Vector Databases
-- AI Agents
+HTML • CSS • Bootstrap • .NET Core • REST APIs • Database Systems
 
 
-## ⚡ Embedded Systems & Autonomous Systems
+## Embedded Systems & Autonomous Systems
 
-- Embedded C/C++
-- STM32
-- ESP32
-- PIC Microcontrollers
-- Arduino
-- Raspberry Pi
-- Sensor Integration
-- Real-Time Systems
-- Hardware-Software Integration
-- Edge AI Applications
+STM32 • ESP32 • PIC Microcontrollers • Arduino • Raspberry Pi
+
+Embedded C • Sensor Integration • Real-Time Systems • Edge AI • Robotics
 
 
-## ☁️ Cloud & DevOps
+## Cloud & Development Tools
 
-- AWS
-- Azure
-- Docker
-- Git
-- GitHub
-
-
-## 📊 Data Tools
-
-- Power BI
-- Excel
-- Jupyter Notebook
-- Google Colab
-
+AWS • Azure • Docker • Git • GitHub • Jupyter Notebook • Google Colab • Power BI
 
 ---
 
-# 🔥 Featured Projects
+# 📌 Featured Projects
+
 
 ## 🤖 Autonomous Intelligent System
 
 **Embedded AI + Robotics Project**
 
-Designed and developed an autonomous intelligent system combining AI algorithms, embedded controllers, and real-time decision making.
+An autonomous intelligent system combining AI algorithms, embedded controllers, and real-world decision making.
 
-Key concepts:
+Key Features:
 
+- AI-based perception and decision making
+- Embedded hardware integration
+- Real-time system control
 - Autonomous operation
-- Computer vision integration
-- Embedded processing
-- Sensor-based decision making
-- Intelligent control systems
 
-Repository:
-🔗 Add repository link here
+Tech:
+`Python` `Computer Vision` `Embedded Systems` `Raspberry Pi` `Microcontrollers`
+
+🔗 View Repository
 
 
 ---
 
 ## 🧑‍🎓 Smart Student Performance Prediction System
 
-**Machine Learning Analytics Platform**
+**Machine Learning Educational Analytics Platform**
 
-An AI-based educational analytics system that predicts student academic performance using historical, behavioral, and demographic information.
+An AI-powered prediction system designed to estimate student academic performance using historical, behavioral, and demographic data.
 
 Features:
 
-- Dataset analysis of 20,000 student records
-- Data preprocessing pipeline
-- Feature analysis and selection
+- Analysis of 20,000 student records
+- Data preprocessing and feature analysis
 - Classification and regression models
 - Model comparison and optimization
 
@@ -185,7 +108,7 @@ Prediction Tasks:
 - Final Grade Classification
 - Pass / Fail Prediction
 
-Implemented Models:
+Models:
 
 - Linear Regression
 - KNN
@@ -194,10 +117,12 @@ Implemented Models:
 - XGBoost
 - SVM
 - Logistic Regression
-- Artificial Neural Network
+- ANN
 
-Repository:
-🔗 Add repository link here
+Tech:
+`Python` `Scikit-learn` `Pandas` `Machine Learning`
+
+🔗 View Repository
 
 
 ---
@@ -206,31 +131,31 @@ Repository:
 
 **Enterprise Network Infrastructure Project**
 
-Designed a complete smart hospital network architecture using Cisco Packet Tracer.
+Designed and implemented a complete hospital network architecture using Cisco Packet Tracer.
 
 Implemented:
 
 - VLAN segmentation
 - Inter-VLAN routing
-- DHCP configuration
+- DHCP
 - OSPF dynamic routing
-- NAT/PAT connectivity
-- Network redundancy and failover
+- NAT/PAT
+- Network redundancy and failover testing
 - Traffic analysis
 
-Architecture:
+Tech:
+`Cisco Packet Tracer` `Computer Networks` `Routing Protocols` `Network Design`
 
-Repository:
-🔗 Add repository link here
+🔗 View Repository
 
 
 ---
 
 ## 🏥 Medical Laboratory Management System
 
-**Full-Stack Healthcare Management Application**
+**Full-Stack Healthcare Management System**
 
-A complete software system connecting patients, doctors, nurses, and administrators.
+A complete software platform connecting patients, doctors, nurses, and administrators.
 
 Features:
 
@@ -240,11 +165,12 @@ Features:
 - Doctor and nurse task management
 - Medical report submission
 - Patient result viewing
-- Administrative dashboard
-- Data analytics
+- Admin dashboard and analytics
 
-Repository:
-🔗 Add repository link here
+Tech:
+`ASP.NET Core` `SQL` `Database Systems` `Web Development`
+
+🔗 View Repository
 
 
 ---
@@ -253,7 +179,7 @@ Repository:
 
 **Machine Learning Healthcare Analytics Project**
 
-Developed an AI system for heart disease prediction using machine learning techniques.
+An AI system for predicting heart disease using machine learning techniques.
 
 Implemented:
 
@@ -261,11 +187,13 @@ Implemented:
 - Feature selection
 - PCA analysis
 - Classification models
-- Model evaluation
 - Hyperparameter tuning
+- Model evaluation
 
-Repository:
-🔗 Add repository link here
+Tech:
+`Python` `Machine Learning` `Scikit-learn`
+
+🔗 View Repository
 
 
 ---
@@ -274,23 +202,25 @@ Repository:
 
 **Generative AI Application**
 
-Developed an intelligent document assistant using Large Language Models and Retrieval Augmented Generation.
+An intelligent document assistant using Large Language Models and Retrieval Augmented Generation.
 
-Capabilities:
+Features:
 
 - Document understanding
 - Semantic search
 - Question answering
 - Knowledge retrieval
-- AI-powered assistance
 
-Repository:
-🔗 Add repository link here
+Tech:
+`LLMs` `RAG` `LangChain` `Embeddings` `Vector Databases`
+
+🔗 View Repository
 
 
 ---
 
 # 🏆 Achievements
+
 
 ## 🏅 Egyptian Collegiate Programming Contest (ECPC)
 
@@ -327,7 +257,68 @@ Achievements:
 - Applied AI optimization and forecasting techniques
 - Improved simulated trading revenue by **40%**
 
+---
+
+# 💼 Experience Highlights
+
+## AI & Machine Learning Intern — Sprints x Microsoft
+
+Worked on machine learning applications and AI development workflows.
+
+
+## AI Intern — NTI
+
+Developed practical AI solutions and gained experience in machine learning applications.
+
+
+## Database Intern — iScore
+
+Worked on database systems and data management solutions.
+
 
 ---
 
 # 📚 Currently Learning
+
+- Advanced Deep Learning
+- Computer Vision
+- Large Language Models
+- Retrieval Augmented Generation
+- Agentic AI
+- Embedded AI Deployment
+- Autonomous Systems
+
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+
+---
+
+# 🌐 Contact Me
+
+📧 Email: YOUR_EMAIL
+
+🔗 LinkedIn: YOUR_LINKEDIN
+
+💻 GitHub: YOUR_USERNAME
+
+
+---
+
+<div align="center">
+
+⭐ Building autonomous and intelligent systems that transform ideas into real-world solutions.
+
+</div>
