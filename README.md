@@ -240,7 +240,7 @@ Tech:
 
 `Cisco Packet Tracer` `Computer Networks` `Routing Protocols`
 
-🔗 View Repository [View Repository](https://github.com/Omarr127/Enterprise-Hospital-Network-Design)
+🔗 [View Repository](https://github.com/Omarr127/Enterprise-Hospital-Network-Design)
 
 
 ---
