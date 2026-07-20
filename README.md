@@ -313,11 +313,11 @@ AI Deployment → LLMs → RAG Systems → Agentic AI → Autonomous Intelligent
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Omarr127&show_icons=true&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarr127&theme=tokyonight"/>
 
 </div>
 
@@ -328,11 +328,11 @@ AI Deployment → LLMs → RAG Systems → Agentic AI → Autonomous Intelligent
 
 <div align="center">
 
-📧 Email: YOUR_EMAIL
+📧 Email: s-omar.samir@zewailcity.edu.eg
 
-🔗 LinkedIn: YOUR_LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/omar-tamer-0a1361357/
 
-💻 GitHub: YOUR_USERNAME
+💻 GitHub: Omarr127
 
 </div>
 
