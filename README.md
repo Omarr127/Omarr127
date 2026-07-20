@@ -337,9 +337,12 @@ An AI-focused hackathon focused on developing intelligent solutions for real-wor
 
 </div>
 
+---
+
+# 👀 Profile Views
 
 <div align="center">
 
-⭐ Building autonomous and intelligent systems that transform ideas into real-world solutions.
+<img src="https://komarev.com/ghpvc/?username=Omarr127&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
