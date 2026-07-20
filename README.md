@@ -311,16 +311,6 @@ Achievements:
 
 ---
 
-# 📚 Currently Learning
-
-<div align="center">
-
-AI Deployment → LLMs → RAG Systems → Agentic AI → Autonomous Intelligent Systems → Embedded AI
-
-</div>
-
-
----
 
 # 📊 GitHub Stats
 
