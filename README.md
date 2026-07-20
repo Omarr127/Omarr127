@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Omar Tamer Samir
+# Omar Tamer
 
 ### Computer and Communication Engineering Student  
 ### Zewail City of Science and Technology
