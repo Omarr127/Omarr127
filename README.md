@@ -265,7 +265,7 @@ Tech:
 
 `.NET Core` `SQL` `Database Systems` `Web Development`
 
-View Repository [View Repository](https://github.com/Omarr127/Medical-Laboratory-Management-System
+🔗 [View Repository](https://github.com/Omarr127/Medical-Laboratory-Management-System
 )
 
 
