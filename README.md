@@ -330,9 +330,9 @@ AI Deployment → LLMs → RAG Systems → Agentic AI → Autonomous Intelligent
 
 📧 Email: s-omar.samir@zewailcity.edu.eg
 
-🔗 LinkedIn: https://www.linkedin.com/in/omar-tamer-0a1361357/
+🔗 LinkedIn: https://www.linkedin.com/in/omar-tamer
 
-💻 GitHub: Omarr127
+💻 GitHub: https://github.com/Omarr127
 
 </div>
 
