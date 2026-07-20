@@ -134,7 +134,7 @@ Tech:
 
 `Python` `Computer Vision` `Embedded Systems` `Raspberry Pi` `Microcontrollers`
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Omarr127/)
 
 
 ---
