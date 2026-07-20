@@ -23,7 +23,7 @@
 
 I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication**.
 
-🧠 Experienced in developing **end-to-end machine learning workflows, predictive models, computer vision applications, and AI-driven products**
+🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven products**
 
 🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges
 
