@@ -134,7 +134,7 @@ Tech:
 
 `Python` `Computer Vision` `Embedded Systems` `Raspberry Pi` `Microcontrollers`
 
-🔗 [View Repository](https://github.com/Omarr127/)
+🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot)
 
 
 ---
@@ -215,7 +215,7 @@ Tech:
 
 `Python` `Scikit-learn` `Machine Learning` `Data Analysis`
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/Omarr127/Smart_Student_Performance_Prediction_System)
 
 
 ---
@@ -240,7 +240,7 @@ Tech:
 
 `Cisco Packet Tracer` `Computer Networks` `Routing Protocols`
 
-🔗 View Repository
+🔗 View Repository [View Repository](https://github.com/Omarr127/Enterprise-Hospital-Network-Design)
 
 
 ---
@@ -265,7 +265,9 @@ Tech:
 
 `.NET Core` `SQL` `Database Systems` `Web Development`
 
-🔗 View Repository
+View Repository [View Repository](https://github.com/Omarr127/Medical-Laboratory-Management-System
+)
+
 
 
 ---
