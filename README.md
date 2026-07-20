@@ -23,19 +23,19 @@
 
 # 🚀 About Me
 
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about developing practical engineering solutions that combine **Artificial Intelligence, Software Engineering, Embedded Systems, and Wireless Communication**.
 
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about building practical engineering solutions that combine **Artificial Intelligence, Software Engineering, Embedded AI, Wireless Communication, and Autonomous Intelligent Systems**.
+I am interested in applying AI techniques to different real-world applications, transforming data and intelligent algorithms into useful solutions across areas such as **computer vision, autonomous systems, intelligent software applications, and embedded AI products**.
 
-I enjoy developing intelligent applications and complete systems that connect AI algorithms with real-world problems, including **machine learning workflows, computer vision applications, generative AI solutions, software platforms, embedded AI systems, and communication-based technologies**.
+🎓 Computer and Communication Engineering student at **Zewail City of Science and Technology**
 
-🎓 Communication and Computer Engineering student at **Zewail City of Science and Technology**
+🧠 Experienced in developing **machine learning workflows, training AI models, and building computer vision and data-driven applications**
 
-🧠 Experienced in developing **machine learning workflows, AI models, computer vision applications, and intelligent software solutions**
+⚡ Passionate about creating **AI-powered solutions that connect software, hardware, and real-world environments**
 
-⚡ Passionate about designing complete intelligent products that combine **software intelligence, AI algorithms, embedded systems, and real-world hardware**
+🌱 Currently improving my skills in **Generative AI, Large Language Models (LLMs), RAG systems, AI deployment, and autonomous applications**
 
-🌱 Currently improving my skills in **Generative AI, Large Language Models (LLMs), RAG applications, AI deployment, and autonomous systems**
-
+🎯 Open to opportunities and collaborations in **Machine Learning, Embedded AI, Software Engineering, and intelligent technology solutions**
 ---
 
 # 💡 Areas of Interest
