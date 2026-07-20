@@ -62,30 +62,13 @@ I enjoy developing intelligent applications and complete systems that connect AI
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-E34F26?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/Computer%20Vision-E34F26?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
-
-## 🧠 Generative AI & LLM Technologies
-
-<p>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF4081?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-673AB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-00897B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-</p>
-
 
 ## 🌐 Web Technologies & Frameworks
 
@@ -95,8 +78,6 @@ I enjoy developing intelligent applications and complete systems that connect AI
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
-
-
 
 ## ⚡ Embedded Systems & Hardware
 
@@ -108,7 +89,6 @@ I enjoy developing intelligent applications and complete systems that connect AI
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-
 
 ## ☁️ Cloud & DevOps
 
