@@ -9,11 +9,11 @@
 
 <br>
 
-### AI Engineer | Software Engineer | Embedded AI | Autonomous & Intelligent Systems
+## Machine Learning Engineer | Embedded AI Engineer | Software Engineer
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=AI+Engineer;Software+Engineer;Machine+Learning+Engineer;Embedded+AI+Enthusiast;Building+Autonomous+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Embedded+AI+Engineer;Software+Engineer;Building+Intelligent+Systems;Developing+AI+Powered+Applications" />
 
 <br>
 
