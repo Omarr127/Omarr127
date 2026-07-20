@@ -285,22 +285,11 @@ Tech:
 
 ## 🚀 Hult Prize Competition
 
-**Top 15 Finalist | 4th Place Overall**
-
-Developed **GenUPX**, an AI-powered personalized learning platform.
-
-Achievements:
-
 - Selected among the **Top 15 finalist teams out of 65 teams**
-- Achieved **4th place overall**
-- Built an AI-driven personalized learning solution
-
-
+- Developed **GenUPX**, an AI-powered personalized learning platform
 ---
 
-## 🤖 Solship AI Hackathon — Cairo, Egypt | May 2026
-
-**Top 30 Selected Participant**
+## 🤖 Solship AI Hackathon 
 
 - Selected among the **Top 30 participants out of 350+ applicants across Egypt**
 - Developed an AI-driven energy trading solution
