@@ -160,25 +160,6 @@ Tech:
 
 
 ---
-# 📄 Enterprise Document Assistant using LLM & RAG
-
-**Generative AI Application**
-
-An intelligent document assistant using Large Language Models and Retrieval Augmented Generation.
-
-Features:
-
-- Document understanding
-- Semantic search
-- Question answering
-- Knowledge retrieval
-
-Tech:
-
-`LLMs` `RAG` `LangChain` `Embeddings` `Vector Databases`
-
-🔗 View Repository
----
 
 # 🧑‍🎓 Smart Student Performance Prediction System
 
@@ -219,6 +200,42 @@ Tech:
 
 
 ---
+# ❤️ Heart Disease Prediction System
+
+**Machine Learning Healthcare Analytics Platform**
+
+An AI-powered system that predicts heart disease risk using healthcare data through preprocessing, feature engineering, supervised learning, and unsupervised learning techniques.
+
+Features:
+
+- Healthcare dataset analysis and visualization
+- Data preprocessing and feature scaling
+- Feature selection and PCA dimensionality reduction
+- Supervised learning model development
+- Patient pattern discovery using clustering techniques
+- Model comparison and hyperparameter optimization
+
+Prediction:
+
+- Heart Disease Risk Classification
+
+Models:
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+
+Unsupervised Learning:
+
+- K-Means Clustering
+- Hierarchical Clustering
+
+Tech:
+
+`Python` `Scikit-learn` `Machine Learning` `PCA` `K-Means` `Hierarchical Clustering` `Data Analysis`
+
+🔗 [View Repository](https://github.com/Omarr127/Heart_Disease_Prediction_System)
 
 # 🏥 City Smart Hospital Network Design
 
