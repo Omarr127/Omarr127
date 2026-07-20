@@ -20,23 +20,20 @@
 </div>
 
 ---
+# 🚀 About Me
 
-**# 🚀 About Me
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about developing practical engineering solutions and applying **Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication** technologies to solve real-world problems.
 
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about developing practical engineering solutions that combine **Artificial Intelligence, Software Engineering, Embedded Systems, and Wireless Communication**.
-
-I am interested in applying AI techniques to different real-world applications, transforming data and intelligent algorithms into useful solutions across areas such as **computer vision, autonomous systems, intelligent software applications, and embedded AI products**.
 
 🎓 Computer and Communication Engineering student at **Zewail City of Science and Technology**
 
-🧠 Experienced in developing **machine learning workflows, training AI models, and building computer vision and data-driven applications**
+🧠 Experienced in developing **end-to-end machine learning workflows, training predictive models, and creating AI-driven products using computer vision and intelligent systems**
 
-⚡ Passionate about creating **AI-powered solutions that connect software, hardware, and real-world environments**
+🤖 Interested in applying **Artificial Intelligence across different domains** to develop innovative solutions that address real-world challenges
 
-🌱 Currently improving my skills in **Generative AI, Large Language Models (LLMs), RAG systems, AI deployment, and autonomous applications**
+🌱 Currently enhancing my skills in **Generative AI, Large Language Models (LLMs), RAG systems, AI deployment, and autonomous intelligent systems**
 
-🎯 Open to opportunities and collaborations in **Machine Learning, Embedded AI, Software Engineering, and intelligent technology solutions**
----**
+🎯 Open to opportunities and internships in **Machine Learning, AI Engineering, Software Engineering, Embedded AI, Wireless Communication, and intelligent technology solutions**
 
 # 💡 Areas of Interest
 
