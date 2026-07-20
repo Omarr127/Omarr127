@@ -272,30 +272,41 @@ Tech:
 
 # 🏆 Achievements
 
+
 ## 🏅 Egyptian Collegiate Programming Contest (ECPC)
 
 **ECPC Finalist**
+
+A competitive programming competition focused on algorithmic problem-solving, data structures, and developing efficient programming solutions under time constraints.
 
 - Qualified for the Egyptian Collegiate Programming Contest Finals
 - Achieved **2nd place at university level**
 - Ranked **43rd overall among participating teams**
 
-
 ---
 
 ## 🚀 Hult Prize Competition
 
+**Top 15 Finalist**
+
+A global entrepreneurship competition where teams develop innovative solutions addressing real-world challenges through technology and business models.
+
 - Selected among the **Top 15 finalist teams out of 65 teams**
+- Achieved **4th place overall**
 - Developed **GenUPX**, an AI-powered personalized learning platform
+
 ---
 
-## 🤖 Solship AI Hackathon 
+## 🤖 Solship AI Hackathon
+
+**Top 30 Selected Participant**
+
+An AI-focused hackathon focused on developing intelligent solutions for real-world challenges, including energy market optimization and smart decision-making.
+
 
 - Selected among the **Top 30 participants out of 350+ applicants across Egypt**
-- Developed an AI-driven energy trading solution
-- Applied AI optimization and forecasting techniques
-- Improved simulated trading revenue by **40%**
-
+- Developed an **AI-driven energy trading solution**
+- Applied AI optimization and forecasting techniques for electricity market strategies
 
 ---
 
