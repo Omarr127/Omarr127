@@ -333,7 +333,7 @@ An AI-focused hackathon focused on developing intelligent solutions for real-wor
 
 📧 Email: s-omar.samir@zewailcity.edu.eg
 
-🔗 LinkedIn: https://www.linkedin.com/in/omar-tamer
+🔗 LinkedIn: [https://www.linkedin.com/in/omar-tamer](https://www.linkedin.com/in/omar-tamer-0a1361357/)
 
 💻 GitHub: https://github.com/Omarr127
 
