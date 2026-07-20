@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Omar Tamer
+
 
 <div align="center">
 
-# Omar Tamer
+# 👋 Hi, I'm Omar Tamer
 
 ### Computer and Communication Engineering Student  
 ### Zewail City of Science and Technology
@@ -88,6 +88,8 @@ Building scalable software applications, backend systems, and engineering soluti
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-F7931E?style=for-the-badge&logo=Numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-F7931E?style=for-the-badge&logo=Pandas&logoColor=white"/>
 </p>
 <p>
 
