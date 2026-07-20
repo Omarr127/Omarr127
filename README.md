@@ -29,7 +29,6 @@ I am a **Computer and Communication Engineering undergraduate at Zewail City of 
 🤖 Interested in applying **Artificial Intelligence across different domains** to create innovative and impactful solutions
 
 🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, and autonomous intelligent systems**
----
 
 # 💡 Areas of Interest
 
