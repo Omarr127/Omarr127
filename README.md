@@ -97,15 +97,6 @@ I enjoy developing intelligent applications and complete systems that connect AI
 </p>
 
 
-## 📊 Data Tools & Development Environment
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
-
 
 ## ⚡ Embedded Systems & Hardware
 
@@ -140,10 +131,12 @@ An autonomous intelligent system combining artificial intelligence, embedded con
 Features:
 
 - AI-based perception
+- Used computer vision (OpenCV) for basic object detection.
 - Autonomous decision making
 - Embedded processing
 - Sensor integration
 - Real-time control
+   
 
 Tech:
 
@@ -174,6 +167,25 @@ Tech:
 🔗 View Repository
 
 
+---
+# 📄 Enterprise Document Assistant using LLM & RAG
+
+**Generative AI Application**
+
+An intelligent document assistant using Large Language Models and Retrieval Augmented Generation.
+
+Features:
+
+- Document understanding
+- Semantic search
+- Question answering
+- Knowledge retrieval
+
+Tech:
+
+`LLMs` `RAG` `LangChain` `Embeddings` `Vector Databases`
+
+🔗 View Repository
 ---
 
 # 🧑‍🎓 Smart Student Performance Prediction System
@@ -260,28 +272,6 @@ Features:
 Tech:
 
 `.NET Core` `SQL` `Database Systems` `Web Development`
-
-🔗 View Repository
-
-
----
-
-# 📄 Enterprise Document Assistant using LLM & RAG
-
-**Generative AI Application**
-
-An intelligent document assistant using Large Language Models and Retrieval Augmented Generation.
-
-Features:
-
-- Document understanding
-- Semantic search
-- Question answering
-- Knowledge retrieval
-
-Tech:
-
-`LLMs` `RAG` `LangChain` `Embeddings` `Vector Databases`
 
 🔗 View Repository
 
