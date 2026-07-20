@@ -137,30 +137,6 @@ Tech:
 🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot)
 
 
----
-
-# 📡 AI-Based 5G Receiver
-
-**Deep Learning for Wireless Communication**
-
-A deep learning-based receiver system designed to improve communication performance by applying AI techniques in 5G physical layer processing.
-
-Features:
-
-- AI-based receiver architecture
-- Deep learning model implementation
-- Wireless communication simulation
-- Performance evaluation
-
-Tech:
-
-`Python` `MATLAB` `Deep Learning` `5G Toolbox` `Communication Systems`
-
-🔗 View Repository
-
-
----
-
 # 🧑‍🎓 Smart Student Performance Prediction System
 
 **Machine Learning Educational Analytics Platform**
