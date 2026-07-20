@@ -15,9 +15,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=AI+Engineer;Software+Engineer;Machine+Learning+Engineer;Embedded+AI+Enthusiast;Building+Autonomous+%26+Intelligent+Systems" />
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,matlab,tensorflow,pytorch,opencv,docker,aws,azure,git,github,linux" />
+<br>
 
 </div>
 
@@ -43,108 +41,97 @@ I enjoy developing intelligent applications and complete systems that connect AI
 
 ---
 
-# 🛠️ Tech Stack
+
+
+# 🛠️ Skills & Technologies
 
 ## 💻 Programming Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,sql,matlab" />
-
-</div>
-
-Python • C++ • C • C# • JavaScript • SQL • MATLAB • SystemVerilog
-
-
----
-
-## 🧠 AI / Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-</div>
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Predictive Modeling
-- Feature Engineering
-- Model Evaluation
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge"/>
+</p>
 
 
-Libraries:
+## 🤖 AI / Machine Learning / Data Science
 
-TensorFlow • PyTorch • Hugging Face Transformers • OpenCV • Scikit-learn • NumPy • Pandas • Matplotlib • NLTK • spaCy
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-
----
-
-## 🧬 Generative AI
-
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- Prompt Engineering
-- Embeddings
-- Vector Databases
-- AI Agents
-
-
----
-
-## 🌐 Software Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,dotnet" />
-
-</div>
-
-- HTML
-- CSS
-- Bootstrap
-- .NET Core
-- REST APIs
-- Database Systems
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NTLK-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+</p>
 
 
----
+## 🧠 Generative AI & LLM Technologies
 
-## ⚡ Embedded AI & Autonomous Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-
-</div>
-
-- STM32
-- ESP32
-- PIC Microcontrollers
-- Arduino
-- Raspberry Pi
-- Embedded C/C++
-- Sensor Integration
-- Real-Time Systems
-- Edge AI Applications
-- Robotics
+<p>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
 
 
----
+## 🌐 Web Technologies & Frameworks
 
-## ☁️ Cloud & Development Tools
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" />
+## 📊 Data Tools & Development Environment
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
 
-AWS • Azure • Docker • Git • GitHub • Jupyter Notebook • Google Colab • Power BI
 
----
+## ⚡ Embedded Systems & Hardware
+
+<p>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PIC%20Microcontrollers-00878F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 # 📌 Featured Projects
 
