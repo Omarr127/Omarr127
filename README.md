@@ -292,7 +292,6 @@ A competitive programming competition focused on algorithmic problem-solving, da
 A global entrepreneurship competition where teams develop innovative solutions addressing real-world challenges through technology and business models.
 
 - Selected among the **Top 15 finalist teams out of 65 teams**
-- Achieved **4th place overall**
 - Developed **GenUPX**, an AI-powered personalized learning platform
 
 ---
