@@ -51,7 +51,7 @@ Building scalable software applications, backend systems, and reliable engineeri
 
 ---
 
-🎯 Open to internships and collaborations in **AI Engineering, Machine Learning, Software Engineering, Embedded AI, Wireless Communication, and Intelligent Systems**
+🎯 Open to internships and collaborations in AI Engineering, Machine Learning, Software Engineering, Embedded AI Systems, Computer Networks, and Wireless Communication.*
 
 # 🛠️ Skills & Technologies
 
