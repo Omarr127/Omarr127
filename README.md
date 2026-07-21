@@ -9,7 +9,7 @@
 
 <br>
 
-## Machine Learning Engineer | Embedded AI Engineer | Software Engineer
+## AI & Machine Learning | Network & Communication Systems | Embedded AI Systems
 
 <br>
 
