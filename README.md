@@ -278,7 +278,7 @@ A competitive programming competition focused on algorithmic problem-solving, da
 
 ## 🚀 Hult Prize Competition
 
-**Top 15 Finalist**
+**4th Place**
 
 A global entrepreneurship competition where teams develop innovative solutions addressing real-world challenges through technology and business models.
 
