@@ -174,45 +174,44 @@ Tech:
 
 🔗 [View Repository](https://github.com/Omarr127/Smart_Student_Performance_Prediction_System)
 
+# 🛡️ AI-Based Network Traffic Classification System
 
----
-# ❤️ Heart Disease Prediction System
+**Machine Learning Network Security Platform**
 
-**Machine Learning Healthcare Analytics Platform**
+An AI-based system that analyzes network traffic data and classifies normal and malicious network activities using machine learning techniques. The project applies data preprocessing, feature engineering, and multiple classification algorithms for intrusion detection.
 
-An AI-powered system that predicts heart disease risk using healthcare data through preprocessing, feature engineering, supervised learning, and unsupervised learning techniques.
+## Features
 
-Features:
+- Network traffic analysis and preprocessing
+- Feature engineering and data preparation
+- Machine learning-based intrusion detection
+- Multi-class attack classification
+- Model comparison and evaluation
 
-- Healthcare dataset analysis and visualization
-- Data preprocessing and feature scaling
-- Feature selection and PCA dimensionality reduction
-- Supervised learning model development
-- Patient pattern discovery using clustering techniques
-- Model comparison and hyperparameter optimization
+## Classification:
 
-Prediction:
+The system identifies:
 
-- Heart Disease Risk Classification
+- ✅ Normal Traffic
+- 🔴 Denial of Service (DoS)
+- 🟠 Probe Attacks
+- 🟡 Remote to Local (R2L)
+- 🟣 User to Root (U2R)
 
-Models:
+## Models:
 
-- Logistic Regression
+- Multi-Layer Perceptron (MLP)
+- XGBoost
 - Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
 
-Unsupervised Learning:
+## Tech:
 
-- K-Means Clustering
-- Hierarchical Clustering
+`Python` `Scikit-learn` `XGBoost` `Machine Learning` `Network Security` `Data Analysis`
 
-Tech:
-
-`Python` `Scikit-learn` `Machine Learning` `PCA` `K-Means` `Hierarchical Clustering` `Data Analysis`
-
-🔗 [View Repository](https://github.com/Omarr127/Heart_Disease_Prediction_System)
-
+🔗 [View Repository](https://github.com/your-link)
+---
 # 🏥 City Smart Hospital Network Design
 
 **Enterprise Network Infrastructure Project**
