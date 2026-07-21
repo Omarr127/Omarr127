@@ -172,7 +172,8 @@ The system identifies:
 
 `Python` `Scikit-learn` `XGBoost` `Machine Learning` `Network Security` `Data Analysis`
 
-🔗 [View Repository](https://github.com/your-link)
+🔗 [View Repository](https://github.com/Omarr127/AI-Based-Network-Traffic-Classification.git)
+
 ---
 # 🏥 City Smart Hospital Network Design
 
