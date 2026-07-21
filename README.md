@@ -136,44 +136,6 @@ Tech:
 
 🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot)
 
-
-# 🧑‍🎓 Smart Student Performance Prediction System
-
-**Machine Learning Educational Analytics Platform**
-
-An AI-powered system that predicts student academic performance using historical, behavioral, and demographic data.
-
-Features:
-
-- Analysis of 20,000 student records
-- Data preprocessing pipeline
-- Feature analysis
-- Classification and regression models
-- Model comparison and optimization
-
-Prediction:
-
-- Final Score
-- Final Grade
-- Pass / Fail Outcome
-
-Models:
-
-- Linear Regression
-- KNN
-- SVR
-- Random Forest
-- XGBoost
-- SVM
-- Logistic Regression
-- ANN
-
-Tech:
-
-`Python` `Scikit-learn` `Machine Learning` `Data Analysis`
-
-🔗 [View Repository](https://github.com/Omarr127/Smart_Student_Performance_Prediction_System)
-
 # 🛡️ AI-Based Network Traffic Classification System
 
 **Machine Learning Network Security Platform**
@@ -236,7 +198,42 @@ Tech:
 
 
 ---
+# 🧑‍🎓 Smart Student Performance Prediction System
 
+**Machine Learning Educational Analytics Platform**
+
+An AI-powered system that predicts student academic performance using historical, behavioral, and demographic data.
+
+Features:
+
+- Analysis of 20,000 student records
+- Data preprocessing pipeline
+- Feature analysis
+- Classification and regression models
+- Model comparison and optimization
+
+Prediction:
+
+- Final Score
+- Final Grade
+- Pass / Fail Outcome
+
+Models:
+
+- Linear Regression
+- KNN
+- SVR
+- Random Forest
+- XGBoost
+- SVM
+- Logistic Regression
+- ANN
+
+Tech:
+
+`Python` `Scikit-learn` `Machine Learning` `Data Analysis`
+
+🔗 [View Repository](https://github.com/Omarr127/Smart_Student_Performance_Prediction_System)
 # 🏥 Medical Laboratory Management System
 
 **Full-Stack Healthcare Management System**
