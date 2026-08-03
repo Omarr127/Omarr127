@@ -301,16 +301,6 @@ An AI-focused hackathon focused on developing intelligent solutions for real-wor
 
 ---
 
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omarr127&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Omarr127&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarr127&layout=compact&theme=tokyonight)
----
-
 # 🌐 Contact Me
 
 <div align="center">
