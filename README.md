@@ -304,20 +304,11 @@ An AI-focused hackathon focused on developing intelligent solutions for real-wor
 
 # 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omarr127&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Omarr127&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Omarr127&theme=tokyonight)
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Omarr127&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarr127&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarr127&layout=compact&theme=tokyonight)
 ---
 
 # 🌐 Contact Me
