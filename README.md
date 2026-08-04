@@ -44,7 +44,7 @@ Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assist
 Developing intelligent systems that combine AI algorithms with embedded platforms and real-world environments.
 
 📡 **Wireless Communication & AI for Communications**  
-Interested in wireless technologies, intelligent signal processing, and AI-driven communication systems.
+Interested in wireless technologies, Netwrok infrastrcuture, intelligent signal processing, and AI-driven communication systems.
 
 💻 **Software Engineering**  
 Building scalable software applications, backend systems, and reliable engineering solutions.
