@@ -9,7 +9,7 @@
 
 <br>
 
-## AI & Machine Learning | Network & Communication Systems | Embedded AI Systems
+## Network & Communication Systems | AI & Machine Learning |  Embedded AI Systems
 
 <br>
 
