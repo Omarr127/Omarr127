@@ -21,9 +21,9 @@ I am a **Computer and Communication Engineering undergraduate at Zewail City of 
 
 🧠 Experienced in developing **end-to-end machine learning workflows, predictive models, computer vision applications, and AI-driven products**
 
-🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges, including **intelligent communication systems and autonomous platforms**
+🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges, including **intelligent communication systems, AI-driven networks, and autonomous platforms**
 
-🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, edge AI, and autonomous intelligent systems**
+🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, Edge AI, autonomous intelligent systems, and the integration of AI with communication systems for intelligent networking and next-generation wireless technologies**
 
 # 💡 Areas of Interest
 
