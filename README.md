@@ -19,7 +19,7 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 - 📡 Interested in **telecommunication systems, wireless networks, 5G/6G technologies, IoT, and AI-driven communication systems**
 - 🌐 Experienced in **network systems, communication projects, end-to-end machine learning workflows, computer vision applications, and AI-driven solutions**
 - 💻 Experienced in **software engineering, backend development, and designing practical engineering solutions**
-- 🤖 Built projects involving **AI systems, communication networks, embedded AI, edge computing, and autonomous applications**
+- 🤖 Built projects involving **AI systems, communication networks, embedded AI, and autonomous applications**
 - 🌱 Currently improving my skills in **Generative AI, AI deployment, Edge AI, and AI integration with communication networks**
 - 🎯 Open to opportunities in **Telecommunications, Network Engineering, AI/ML, Software Engineering, and Embedded AI**
 
