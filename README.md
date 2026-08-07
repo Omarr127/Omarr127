@@ -25,29 +25,8 @@ I am a **Computer and Communication Engineering undergraduate at Zewail City of 
 
 🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, Edge AI, autonomous intelligent systems, and the integration of AI with communication systems for intelligent networking and next-generation wireless technologies**
 
-# 💡 Areas of Interest
+🎯 Open to internships and collaborations in **Network & Communication Systems, AI & Machine Learning, Software Engineering, and Embedded AI Systems**.
 
-🤖 **Artificial Intelligence & Machine Learning**  
-Developing machine learning workflows, deep learning models, and data-driven applications.
-
-👁️ **Computer Vision & AI Applications**  
-Building vision-based systems and intelligent solutions for real-world automation and decision-making.
-
-🧠 **Generative AI & LLM Applications**  
-Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assistants.
-
-⚡ **Embedded AI & Autonomous Systems**  
-Developing intelligent systems that combine AI algorithms with embedded platforms and real-world environments.
-
-📡 **Wireless Communication & AI for Communications**  
-Interested in wireless technologies, intelligent signal processing, and AI-driven communication systems.
-
-💻 **Software Engineering**  
-Building scalable software applications, backend systems, and reliable engineering solutions.
-
----
-
-🎯 Open to internships and collaborations in **AI Engineering, Machine Learning, Software Engineering, Embedded AI, Wireless Communication, and Intelligent Systems**
 
 # 🛠️ Skills & Technologies
 
