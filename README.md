@@ -258,7 +258,7 @@ Technologies:
 `ASP.NET Core` `SQL Server` `HTML` `CSS` `JavaScript`
 
 
-🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot.git)
+🔗 [View Repository](https://github.com/Omarr127/Medical-Laboratory-Management-System.git)
 
 
 ---
