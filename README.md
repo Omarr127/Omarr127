@@ -144,25 +144,25 @@ Technologies:
 
 🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot.git)
 
-## 🏥Smart Hospital Network Design
+## 🏥 Smart Hospital Network Design
 
 **Computer Networks Infrastructure Project**
 
-Designed and implemented a complete hospital enterprise network simulation.
+Designed and implemented a complete hospital enterprise network simulation focusing on secure, scalable, and reliable network infrastructure.
 
 Implemented:
 
-- VLAN segmentation
-- Router-on-a-Stick
-- DHCP configuration
-- OSPF routing
-- NAT/PAT
-- Network failover
-- Traffic analysis
+- VLAN segmentation and network management
+- Router-on-a-Stick inter-VLAN routing
+- DHCP configuration and IP addressing
+- OSPF dynamic routing
+- NAT/PAT configuration
+- Network failover and reliability
+- Traffic analysis and troubleshooting
 
 Technologies:
 
-`Cisco Packet Tracer` `Networking` `OSPF` `VLAN`
+`Cisco Packet Tracer` `TCP/IP` `OSI Model` `IPv4 Addressing` `Subnetting` `VLAN` `OSPF` `DHCP` `NAT/PAT` `Network Troubleshooting` `Wireshark`
 
 
 🔗 [View Repository](https://github.com/Omarr127/Enterprise-Hospital-Network-Design.git)
