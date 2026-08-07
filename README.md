@@ -52,8 +52,6 @@ I am a **Communication and Computer Engineering undergraduate at Zewail City of 
 ![NAT](https://img.shields.io/badge/NAT%2FPAT-007ACC?style=for-the-badge)
 
 ![Wireless Communication](https://img.shields.io/badge/Wireless_Communication-6A5ACD?style=for-the-badge)
-![5G/6G](https://img.shields.io/badge/5G%2F6G_Networks-483D8B?style=for-the-badge)
-![IoT Communication](https://img.shields.io/badge/IoT_Connectivity-4B0082?style=for-the-badge)
 ![Digital Communications](https://img.shields.io/badge/Digital_Communications-663399?style=for-the-badge)
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
