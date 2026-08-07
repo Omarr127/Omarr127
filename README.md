@@ -18,26 +18,43 @@
 
 # 🚀 About Me
 
-I am a **Communication and Computer Engineering undergraduate student at Zewail City of Science and Technology** passionate about designing and developing intelligent engineering systems that combine software, artificial intelligence, and embedded technologies.
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about building practical engineering solutions that combine **Artificial Intelligence, Software Engineering, Embedded AI, Wireless Communication, and Autonomous Intelligent Systems**.
 
-My interests focus on:
+I enjoy developing intelligent applications and complete systems that connect AI algorithms with real-world problems, including **machine learning workflows, computer vision applications, generative AI solutions, software platforms, embedded AI systems, and communication-based technologies**.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Software Engineering
-- 👁️ Computer Vision
-- ⚡ Embedded AI Systems
-- 🦾 Autonomous Systems
-- 📡 Communication Technologies
+🎓 Communication and Computer Engineering student at **Zewail City of Science and Technology**
 
-I enjoy building complete solutions that connect intelligent algorithms with real-world applications, from AI-powered software systems to embedded and autonomous platforms.
+🧠 Experienced in developing **machine learning workflows, AI models, computer vision applications, and intelligent software solutions**
 
-- 🎓 Communication and Computer Engineering student at **Zewail City of Science and Technology**
-- 🧠 Interested in AI Engineering, Software Development, and Embedded AI
-- 🤖 Experienced in Machine Learning, Deep Learning, Computer Vision, and Generative AI
-- 🔧 Built AI, embedded, networking, and software engineering projects
-- 🚀 Interested in developing intelligent products that solve real-world problems
-- 🎯 Open to internships and collaborations in AI Engineering, Software Engineering, and Embedded Systems
+⚡ Passionate about designing complete intelligent products that combine **software intelligence, AI algorithms, embedded systems, and real-world hardware**
 
+🌱 Currently improving my skills in **Generative AI, Large Language Models (LLMs), RAG applications, AI deployment, and autonomous systems**
+
+---
+
+# 💡 Areas of Interest
+
+🤖 **Artificial Intelligence & Machine Learning**  
+Developing ML workflows, deep learning models, AI applications, and data-driven solutions.
+
+👁️ **Computer Vision & Intelligent Applications**  
+Building vision-based AI systems for real-world automation and decision-making.
+
+🧠 **Generative AI & LLM Applications**  
+Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assistants.
+
+⚡ **Embedded AI & Autonomous Systems**  
+Designing intelligent systems that combine AI algorithms with embedded hardware and real-world interaction.
+
+📡 **Wireless Communication & AI for Communications**  
+Interested in wireless systems, intelligent signal processing, and applying AI techniques in communication technologies.
+
+💻 **Software Engineering**  
+Building scalable software applications, backend systems, and engineering solutions.
+
+---
+
+🎯 Open to internships and collaborations in **AI Engineering, Software Engineering, Embedded AI, Wireless Communication, and Intelligent Systems**
 ---
 
 # 🛠️ Skills & Technologies
