@@ -12,13 +12,15 @@
 
 # 🚀 About Me
 
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication**.
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Artificial Intelligence, Software Engineering, Embedded AI, Computer Networks, and Wireless Communication Systems**.
+
+📡 Interested in **communication networks, network infrastructure, and wireless technologies**, including **TCP/IP networking, network protocols, routing and switching concepts, IoT connectivity, digital communications, signal processing, and next-generation wireless systems such as 5G/6G networks**
 
 🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven products**
 
-🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges
+🤖 Interested in applying **AI across different domains**, including **intelligent communication systems, edge AI, autonomous systems, and real-world engineering solutions**
 
-🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, and autonomous intelligent systems**
+🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, autonomous intelligent systems, and AI-driven networking applications**
 
 # 💡 Areas of Interest
 
