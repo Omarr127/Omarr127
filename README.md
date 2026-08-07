@@ -1,12 +1,14 @@
+<div align="center">
+
 # 👋 Hi, I'm Omar Tamer
 
 ### Computer and Communication Engineering Student
 
 ### Zewail City of Science and Technology
 
-## Network & Communication Systems | AI & Machine Learning |  Embedded AI Systems
+## Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
 
----
+</div>
 
 # 🚀 About Me
 
