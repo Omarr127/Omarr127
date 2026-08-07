@@ -6,10 +6,9 @@
 
 ### Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
 
-### Building Intelligent & Autonomous Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Software+Engineering+Enthusiast;Embedded+AI+Engineer;Computer+Vision+Developer;Building+Intelligent+Autonomous+Systems" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Communication+%26+Network+Engineer;Embedded+AI+Engineer;Computer+Vision+Developer;Building+Intelligent+Autonomous+Systems" />
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
