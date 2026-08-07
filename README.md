@@ -238,7 +238,7 @@ Technologies:
 
 ## 🧪 Medical Laboratory Management System
 
-**Full-Stack Software Application**
+**Full-Stack Database Management Application***
 
 A complete medical laboratory management platform connecting patients, doctors, nurses, and administrators.
 
