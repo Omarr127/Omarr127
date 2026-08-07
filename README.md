@@ -1,191 +1,45 @@
+👋 Hi, I'm Omar Tamer
+Computer and Communication Engineering Student
+Zewail City of Science and Technology
+Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
+🚀 About Me
 
+I am a Computer and Communication Engineering undergraduate at Zewail City of Science and Technology, interested in building intelligent systems and developing practical solutions using Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication.
 
-# 👋 Hi, I'm Omar Tamer
+🧠 Experienced in developing machine learning workflows, predictive models, computer vision applications, and AI-driven products
 
-### Computer and Communication Engineering Student
+🤖 Interested in applying AI across different domains to create innovative solutions for real-world challenges
 
-### Zewail City of Science and Technology
+🌱 Currently improving my skills in Generative AI, LLMs, RAG systems, AI deployment, and autonomous intelligent systems
 
-## Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
+💡 Areas of Interest
 
----
+🤖 Artificial Intelligence & Machine Learning
+Developing machine learning workflows, deep learning models, and data-driven applications.
 
-# 🚀 About Me
+👁️ Computer Vision & AI Applications
+Building vision-based systems and intelligent solutions for real-world automation and decision-making.
 
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about designing and developing intelligent systems that combine **Artificial Intelligence, Computer Networks, Wireless Communications, Embedded Systems, and Software Engineering**.
+🧠 Generative AI & LLM Applications
+Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assistants.
 
-📡 Interested in **communication networks, wireless technologies, and network infrastructure**, including **TCP/IP networking, routing and switching, network protocols, IoT communication, 5G/6G technologies, and AI-driven communication systems**
+⚡ Embedded AI & Autonomous Systems
+Developing intelligent systems that combine AI algorithms with embedded platforms and real-world environments.
 
-🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven solutions**
+📡 Wireless Communication & AI for Communications
+Interested in wireless technologies, Netwrok infrastrcuture, intelligent signal processing, and AI-driven communication systems.
 
-🤖 Interested in integrating **AI with communication systems, edge devices, and autonomous platforms** to build efficient and intelligent real-world applications
+💻 Software Engineering
+Building scalable software applications, backend systems, and reliable engineering solutions.
 
-⚡ Experienced with **embedded platforms, sensor-based systems, hardware-software integration, and AI deployment on edge devices**
+🎯 Open to internships and collaborations in AI Engineering, Machine Learning, Software Engineering, Computer Networks,and Wireless Communication.
 
-🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, intelligent networking, and autonomous intelligent systems**
-
----
-
-# 💡 Areas of Interest
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-Developing machine learning workflows, deep learning models, computer vision systems, and data-driven applications using modern AI techniques.
-
----
-
-## 👁️ Computer Vision & AI Applications
-
-Building vision-based intelligent systems for automation, perception, decision-making, and real-world problem solving.
-
----
-
-## 🧠 Generative AI & LLM Applications
-
-Exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, AI agents, and intelligent assistants**.
-
----
-
-## ⚡ Embedded AI & Autonomous Systems
-
-Developing intelligent edge systems that combine **AI algorithms, embedded hardware, sensors, IoT platforms, and real-time processing** for autonomous applications.
-
----
-
-## 📡 Network & Communication Systems
-
-Interested in **computer networks, wireless communication, and next-generation communication technologies**.
-
-Areas of interest include:
-
-- **TCP/IP Protocol Suite and Network Architecture**
-- **Routing, Switching, and Network Infrastructure**
-- **LAN/WAN Technologies and Network Design**
-- **Wireless Communication Systems**
-- **5G/6G Networks and Future Communication Technologies**
-- **IoT Connectivity and Edge Networking**
-- **Software Defined Networking (SDN)**
-- **Network Performance Optimization**
-- **AI for Networking and Intelligent Communication Systems**
-- **Digital Signal Processing (DSP) for Communication Applications**
-
----
-
-## 💻 Software Engineering
-
-Building scalable software applications, backend systems, APIs, and reliable engineering solutions with strong foundations in software design and development.
-
----
-
-🎯 Open to internships and collaborations in:
-
-**AI Engineering | Machine Learning | Embedded AI | Computer Networks | Network Engineering | Wireless Communication | Communication Systems | Software Engineering**
-
----
-
-# 🛠️ Skills & Technologies
-
-## 💻 Programming Languages
-
-Python | C++ | C | C# | JavaScript | SQL | MATLAB
-
----
-
-## 🤖 AI / Machine Learning / Data Science
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Predictive Modeling
-- Data Analysis
-
-Technologies:
-
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- OpenCV
-- NumPy
-- Pandas
-- LangChain
-- FAISS
-- ChromaDB
-
----
-
-## 🌐 Computer Networks & Communication Technologies
-
-- TCP/IP Networking
-- Network Architecture
-- Routing & Switching Concepts
-- Network Protocols
-- IPv4 / IPv6
-- Subnetting and Addressing
-- LAN / WAN Technologies
-- Wireless Networks
-- 4G / 5G Communication Concepts
-- IoT Communication Protocols
-- Network Security Fundamentals
-- Software Defined Networking (SDN)
-- Network Simulation Concepts
-- Signal Processing for Communications
-- Digital Communications
-
-Technologies:
-
-- Cisco Networking Concepts
-- Wireshark
-- MATLAB Communications Toolbox
-- NS-3 / Network Simulation Tools
-
----
-
-## 🌐 Web Technologies & Frameworks
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- .NET Core
-- REST APIs
-- Backend Development
-- Database Design
-
----
-
-## ⚡ Embedded Systems & Hardware
-
-- Embedded C/C++
-- Microcontrollers
-- STM32
-- ESP32
-- Arduino
-- Raspberry Pi
-- PIC Microcontrollers
-- Sensor Integration
-- IoT Systems
-- Edge AI Deployment
-- Hardware-Software Integration
-- Real-Time Embedded Systems
-
----
-
-## ☁️ Cloud & DevOps
-
-- AWS
-- Microsoft Azure
-- Docker
-- Git & GitHub
-- Linux
-- Cloud Computing Concepts
-- Deployment Pipelines
-- Containerized Applications
+🛠️ Skills & Technologies
+💻 Programming Languages
+🤖 AI / Machine Learning / Data Science
+🌐 Web Technologies & Frameworks
+⚡ Embedded Systems & Hardware
+☁️ Cloud & DevOps
 
 # 📌 Featured Projects
 
