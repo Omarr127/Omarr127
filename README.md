@@ -49,7 +49,7 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 
 ## 👨‍🏫 Junior Teaching Assistant — Zewail City of Science and Technology
 
-- Assisted students in **Fundamentals of Computer Programming** laboratory sessions by explaining programming concepts and supporting lab exercises
+- - Assisted students in **Fundamentals of Computer Programming** labs by explaining concepts and guiding exercises
 - Supported students in **Linear Algebra and Vector Geometry** coursework through concept clarification and problem-solving guidance
 - Helped students with assignments and practical activities to strengthen their understanding of core course concepts
 
