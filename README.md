@@ -1,45 +1,64 @@
-👋 Hi, I'm Omar Tamer
-Computer and Communication Engineering Student
-Zewail City of Science and Technology
-Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
-🚀 About Me
+# 👋 Hi, I'm Omar Tamer
 
-I am a Computer and Communication Engineering undergraduate at Zewail City of Science and Technology, interested in building intelligent systems and developing practical solutions using Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication.
+### Computer and Communication Engineering Student
 
-🧠 Experienced in developing machine learning workflows, predictive models, computer vision applications, and AI-driven products
+### Zewail City of Science and Technology
 
-🤖 Interested in applying AI across different domains to create innovative solutions for real-world challenges
+## Network & Communication Systems | AI & Machine Learning |  Embedded AI Systems
 
-🌱 Currently improving my skills in Generative AI, LLMs, RAG systems, AI deployment, and autonomous intelligent systems
+---
 
-💡 Areas of Interest
+# 🚀 About Me
 
-🤖 Artificial Intelligence & Machine Learning
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication**.
+
+🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven products**
+
+🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges
+
+🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, and autonomous intelligent systems**
+
+# 💡 Areas of Interest
+
+🤖 **Artificial Intelligence & Machine Learning**
+
 Developing machine learning workflows, deep learning models, and data-driven applications.
 
-👁️ Computer Vision & AI Applications
+👁️ **Computer Vision & AI Applications**
+
 Building vision-based systems and intelligent solutions for real-world automation and decision-making.
 
-🧠 Generative AI & LLM Applications
+🧠 **Generative AI & LLM Applications**
+
 Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assistants.
 
-⚡ Embedded AI & Autonomous Systems
+⚡ **Embedded AI & Autonomous Systems**
+
 Developing intelligent systems that combine AI algorithms with embedded platforms and real-world environments.
 
-📡 Wireless Communication & AI for Communications
-Interested in wireless technologies, Netwrok infrastrcuture, intelligent signal processing, and AI-driven communication systems.
+📡 **Wireless Communication & AI for Communications**
 
-💻 Software Engineering
+Interested in wireless technologies, Network infrastructure, intelligent signal processing, and AI-driven communication systems.
+
+💻 **Software Engineering**
+
 Building scalable software applications, backend systems, and reliable engineering solutions.
+
+---
 
 🎯 Open to internships and collaborations in AI Engineering, Machine Learning, Software Engineering, Computer Networks,and Wireless Communication.
 
-🛠️ Skills & Technologies
-💻 Programming Languages
-🤖 AI / Machine Learning / Data Science
-🌐 Web Technologies & Frameworks
-⚡ Embedded Systems & Hardware
-☁️ Cloud & DevOps
+# 🛠️ Skills & Technologies
+
+## 💻 Programming Languages
+
+## 🤖 AI / Machine Learning / Data Science
+
+## 🌐 Web Technologies & Frameworks
+
+## ⚡ Embedded Systems & Hardware
+
+## ☁️ Cloud & DevOps
 
 # 📌 Featured Projects
 
