@@ -2,176 +2,165 @@
 
 # 👋 Hi, I'm Omar Tamer
 
-### Computer and Communication Engineering Student
+### Communication & Computer Engineering Student  
+### AI Engineer | Software Engineer | Embedded AI Engineer  
+### Building Intelligent & Autonomous Systems
 
-### Zewail City of Science and Technology
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Software+Engineering+Enthusiast;Embedded+AI+Engineer;Computer+Vision+Developer;Building+Intelligent+Autonomous+Systems" />
 
-## Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </div>
 
-# 🚀 About Me
-
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Artificial Intelligence, Software Engineering, Embedded AI, Computer Networks, and Wireless Communication Systems**.
-
-📡 Interested in **communication networks, network infrastructure, and wireless technologies**, including **TCP/IP networking, network protocols, routing and switching concepts, IoT connectivity, digital communications, signal processing, and next-generation wireless systems such as 5G/6G networks**
-
-🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven products**
-
-🤖 Interested in applying **AI across different domains**, including **intelligent communication systems, edge AI, autonomous systems, and real-world engineering solutions**
-
-🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, autonomous intelligent systems, and AI-driven networking applications**
-
-# 💡 Areas of Interest
-
-🤖 **Artificial Intelligence & Machine Learning**
-
-Developing machine learning workflows, deep learning models, and data-driven applications.
-
-👁️ **Computer Vision & AI Applications**
-
-Building vision-based systems and intelligent solutions for real-world automation and decision-making.
-
-🧠 **Generative AI & LLM Applications**
-
-Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assistants.
-
-⚡ **Embedded AI & Autonomous Systems**
-
-Developing intelligent systems that combine AI algorithms with embedded platforms and real-world environments.
-
-📡 **Wireless Communication & AI for Communications**
-
-Interested in wireless technologies, Network infrastructure, intelligent signal processing, and AI-driven communication systems.
-
-💻 **Software Engineering**
-
-Building scalable software applications, backend systems, and reliable engineering solutions.
-
 ---
 
-🎯 Open to internships and collaborations in AI Engineering, Machine Learning, Software Engineering, Computer Networks,and Wireless Communication.
+# 🚀 About Me
+
+I am a **Communication and Computer Engineering undergraduate student at Zewail City of Science and Technology** passionate about designing and developing intelligent engineering systems that combine software, artificial intelligence, and embedded technologies.
+
+My interests focus on:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Engineering
+- 👁️ Computer Vision
+- ⚡ Embedded AI Systems
+- 🦾 Autonomous Systems
+- 📡 Communication Technologies
+
+I enjoy building complete solutions that connect intelligent algorithms with real-world applications, from AI-powered software systems to embedded and autonomous platforms.
+
+- 🎓 Communication and Computer Engineering student at **Zewail City of Science and Technology**
+- 🧠 Interested in AI Engineering, Software Development, and Embedded AI
+- 🤖 Experienced in Machine Learning, Deep Learning, Computer Vision, and Generative AI
+- 🔧 Built AI, embedded, networking, and software engineering projects
+- 🚀 Interested in developing intelligent products that solve real-world problems
+- 🎯 Open to internships and collaborations in AI Engineering, Software Engineering, and Embedded Systems
+
+---
 
 # 🛠️ Skills & Technologies
 
 ## 💻 Programming Languages
 
-## 🤖 AI / Machine Learning / Data Science
+<div>
 
-## 🌐 Web Technologies & Frameworks
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,java,sql,matlab" />
+
+</div>
+
+
+## 🧠 AI / Machine Learning / Data Science
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+</div>
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- Prompt Engineering
+- Embeddings
+- Vector Databases
+
+
+## 🌐 Web Development & Software Engineering
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,dotnet" />
+
+</div>
+
+- ASP.NET Core
+- SQL Server
+- REST APIs
+- Backend Development
+- Database Systems
+
 
 ## ⚡ Embedded Systems & Hardware
 
-## ☁️ Cloud & DevOps
+<div>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+</div>
+
+- Embedded C
+- STM32
+- ESP32
+- PIC Microcontrollers
+- Raspberry Pi
+- Arduino
+- UART / SPI / I2C
+- RTOS
+
+
+## ☁️ Cloud & Development Tools
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" />
+
+</div>
+
+- Cloud Computing
+- Docker
+- Version Control
+- Development Workflows
+
+
+---
 
 # 📌 Featured Projects
 
-## 🤖 Autonomous Navigation Robot
+## 🤖 Autonomous Vision-Based Navigation System
 
-**Embedded AI + Computer Vision Project**
+**Embedded AI + Computer Vision + Robotics**
 
-An autonomous intelligent system combining artificial intelligence, embedded controllers, and real-world decision making.
+An autonomous robotic system designed for intelligent navigation using AI-based perception and embedded control.
 
 Features:
 
-- AI-based perception
-- Computer vision-based perception using OpenCV
-- Autonomous decision making
-- Embedded processing
+- Real-time object detection
+- Computer vision pipeline
+- Autonomous navigation
 - Sensor integration
-- Real-time control
-   
+- Embedded control architecture
 
-Tech:
+Technologies:
 
-`Python` `Computer Vision` `Embedded Systems` `Raspberry Pi` `Microcontrollers`
+`Raspberry Pi` `OpenCV` `YOLO` `Embedded C` `PIC`
 
-🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot)
 
-# 🛡️ AI-Based Network Traffic Classification System
+🔗 View Repository: [Autonomous Navigation System](YOUR_REPO_LINK)
 
-**Machine Learning Network Security Platform**
 
-An AI-based system that analyzes network traffic data and classifies normal and malicious network activities using machine learning techniques. The project applies data preprocessing, feature engineering, and multiple classification algorithms for intrusion detection.
+---
 
-## Features
+## 🧑‍🎓 Smart Student Performance Prediction System
 
-- Network traffic analysis and preprocessing
-- Feature engineering and data preparation
-- Machine learning-based intrusion detection
-- Multi-class attack classification
+**Machine Learning Analytics Platform**
+
+A predictive analytics system that estimates student academic performance using historical, behavioral, and demographic data.
+
+Features:
+
+- Dataset analysis with 20,000 student records
+- Data preprocessing pipeline
+- Feature engineering
+- Classification and regression models
 - Model comparison and evaluation
 
-## Classification:
-
-The system identifies:
-
-- ✅ Normal Traffic
-- 🔴 Denial of Service (DoS)
-- 🟠 Probe Attacks
-- 🟡 Remote to Local (R2L)
-- 🟣 User to Root (U2R)
-
-## Models:
-
-- Multi-Layer Perceptron (MLP)
-- XGBoost
-- Decision Tree
-- K-Nearest Neighbors (KNN)
-- Naive Bayes
-
-## Tech:
-
-`Python` `Scikit-learn` `XGBoost` `Machine Learning` `Network Security` `Data Analysis`
-
-🔗 [View Repository](https://github.com/Omarr127/AI-Based-Network-Traffic-Classification.git)
-
----
-# 🏥 City Smart Hospital Network Design
-
-**Enterprise Network Infrastructure Project**
-
-Designed a complete hospital network architecture using Cisco Packet Tracer.
-
-Implemented:
-
-- VLAN segmentation
-- Inter-VLAN routing
-- DHCP
-- OSPF routing
-- NAT/PAT
-- Network redundancy and failover testing
-- Traffic analysis
-
-Tech:
-
-`Cisco Packet Tracer` `Computer Networks` `Routing Protocols`
-
-🔗 [View Repository](https://github.com/Omarr127/Enterprise-Hospital-Network-Design)
-
-
----
-# 🧑‍🎓 Smart Student Performance Prediction System
-
-**Machine Learning Educational Analytics Platform**
-
-An AI-powered system that predicts student academic performance using historical, behavioral, and demographic data.
-
-Features:
-
-- Analysis of 20,000 student records
-- Data preprocessing pipeline
-- Feature analysis
-- Classification and regression models
-- Model comparison and optimization
-
-Prediction:
-
-- Final Score
-- Final Grade
-- Pass / Fail Outcome
-
-Models:
+Implemented Models:
 
 - Linear Regression
 - KNN
@@ -182,95 +171,206 @@ Models:
 - Logistic Regression
 - ANN
 
-Tech:
 
-`Python` `Scikit-learn` `Machine Learning` `Data Analysis`
+Technologies:
 
-🔗 [View Repository](https://github.com/Omarr127/Smart_Student_Performance_Prediction_System)
-# 🏥 Medical Laboratory Management System
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Jupyter Notebook`
 
-**Full-Stack Healthcare Management System**
 
-A complete software platform connecting patients, doctors, nurses, and administrators.
+🔗 View Repository: [Smart Student Prediction System](YOUR_REPO_LINK)
+
+
+---
+
+## 🏥 City Smart Hospital Network Design
+
+**Computer Networks Infrastructure Project**
+
+Designed and implemented a complete hospital enterprise network simulation.
+
+Implemented:
+
+- VLAN segmentation
+- Router-on-a-Stick
+- DHCP configuration
+- OSPF routing
+- NAT/PAT
+- Network failover
+- Traffic analysis
+
+Technologies:
+
+`Cisco Packet Tracer` `Networking` `OSPF` `VLAN`
+
+
+🔗 View Repository: [Hospital Network Design](YOUR_REPO_LINK)
+
+
+---
+
+## 🧪 Medical Laboratory Management System
+
+**Full-Stack Software Application**
+
+A complete medical laboratory management platform connecting patients, doctors, nurses, and administrators.
 
 Features:
 
 - User authentication
+- Patient registration
 - Medical test browsing
 - Appointment booking
 - Doctor and nurse task management
-- Medical report submission
-- Patient result viewing
-- Admin dashboard and analytics
+- Medical report management
+- Administrative dashboard
 
-Tech:
 
-`.NET Core` `SQL` `Database Systems` `Web Development`
+Technologies:
 
-🔗 [View Repository](https://github.com/Omarr127/Medical-Laboratory-Management-System
-)
+`ASP.NET Core` `SQL Server` `HTML` `CSS` `JavaScript`
 
+
+🔗 View Repository: [Medical Laboratory Management System](YOUR_REPO_LINK)
+
+
+---
+
+## 📡 AI-Based 5G Receiver (DeepRx)
+
+**AI + Wireless Communication System**
+
+An AI-powered 5G receiver system exploring deep learning approaches for improving wireless signal processing.
+
+Features:
+
+- 5G communication modeling
+- Deep learning receiver architecture
+- Signal processing optimization
+- Performance evaluation
+
+
+Technologies:
+
+`MATLAB` `5G Toolbox` `Deep Learning`
+
+
+🔗 View Repository: [AI-Based 5G Receiver](YOUR_REPO_LINK)
+
+
+---
+
+## 📄 Enterprise Document Assistant using LLM & RAG
+
+**Generative AI Application**
+
+An intelligent document assistant that allows users to search and interact with documents using Large Language Models.
+
+Features:
+
+- Document understanding
+- Semantic search
+- Retrieval Augmented Generation
+- AI-powered question answering
+
+
+Technologies:
+
+`LLMs` `RAG` `LangChain` `Embeddings` `Vector Databases`
+
+
+🔗 View Repository: [LLM RAG Document Assistant](YOUR_REPO_LINK)
 
 
 ---
 
 # 🏆 Achievements
 
-
 ## 🏅 Egyptian Collegiate Programming Contest (ECPC)
 
-**ECPC Finalist**
-
-A competitive programming competition focused on algorithmic problem-solving, data structures, and developing efficient programming solutions under time constraints.
-
-- Qualified for the Egyptian Collegiate Programming Contest Finals
+- Qualified for **ECPC Finals**
 - Achieved **2nd place at university level**
-- Ranked **43rd overall among participating teams**
+- Ranked **43rd overall in Egypt**
+
 
 ---
 
 ## 🚀 Hult Prize Competition
 
-**4th Place**
-
-A global entrepreneurship competition where teams develop innovative solutions addressing real-world challenges through technology and business models.
-
-- Selected among the **Top 15 finalist teams out of 65 teams**
+- **Top 15 Finalist out of 65 teams**
+- Achieved **4th Place Overall**
 - Developed **GenUPX**, an AI-powered personalized learning platform
+
+Project Highlights:
+
+- AI-based personalized education
+- Intelligent learning assistant
+- Low-bandwidth RAG system using educational resources
+
 
 ---
 
 ## 🤖 Solship AI Hackathon
 
-**Top 30 Selected Participant**
-
-An AI-focused hackathon focused on developing intelligent solutions for real-world challenges, including energy market optimization and smart decision-making.
-
+**Cairo, Egypt | May 2026**
 
 - Selected among the **Top 30 participants out of 350+ applicants across Egypt**
-- Developed an **AI-driven energy trading solution**
+- Developed an AI-driven energy trading solution
+- Improved simulated trading revenue by **40%**
 - Applied AI optimization and forecasting techniques for electricity market strategies
+
 
 ---
 
-# 🌐 Contact Me
+# 📚 Currently Learning
+
+```
+Advanced Deep Learning
+        ↓
+Computer Vision
+        ↓
+Large Language Models
+        ↓
+Agentic AI
+        ↓
+Embedded AI Deployment
+        ↓
+Autonomous Intelligent Systems
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-📧 Email: s-omar.samir@zewailcity.edu.eg
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-🔗 LinkedIn: [https://www.linkedin.com/in/omar-tamer](https://www.linkedin.com/in/omar-tamer-0a1361357/)
+<br><br>
 
-💻 GitHub: https://github.com/Omarr127
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
 
+
 ---
 
-# 👀 Profile Views
+# 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Omarr127&color=blue&style=for-the-badge&label=PROFILE+VIEWS"/>
+📧 Email: YOUR_EMAIL
+
+🔗 LinkedIn: YOUR_LINKEDIN
+
+💻 GitHub: YOUR_USERNAME
+
+</div>
+
+
+---
+
+<div align="center">
+
+⭐ Building intelligent systems that connect AI, software, and the real world.
 
 </div>
