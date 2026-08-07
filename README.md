@@ -25,7 +25,7 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 
 # 💼 Experience
 
-## 🧠 AI R&D Intern — ITIDA 
+## 🧠 Generative AI R&D Intern — ITIDA 
 
 - Working on **Generative AI, Large Language Models (LLMs), and Agentic AI applications**
 - Developing AI-powered solutions using **LLM workflows, prompt engineering, and AI integration techniques**
