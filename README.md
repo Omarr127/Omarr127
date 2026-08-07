@@ -124,7 +124,7 @@ I am a **Communication and Computer Engineering undergraduate at Zewail City of 
 
 # 📌 Featured Projects
 
-## 🤖 Autonomous Vision-Based Navigation System
+## 🤖AI-Powered Autonomous Navigation Robot
 
 **Embedded AI + Computer Vision + Robotics**
 
@@ -142,11 +142,61 @@ Technologies:
 
 `Raspberry Pi` `OpenCV` `YOLO` `Embedded C` `PIC`
 
+🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot.git)
 
-🔗 View Repository: [Autonomous Navigation System](YOUR_REPO_LINK)
+## 🏥Smart Hospital Network Design
+
+**Computer Networks Infrastructure Project**
+
+Designed and implemented a complete hospital enterprise network simulation.
+
+Implemented:
+
+- VLAN segmentation
+- Router-on-a-Stick
+- DHCP configuration
+- OSPF routing
+- NAT/PAT
+- Network failover
+- Traffic analysis
+
+Technologies:
+
+`Cisco Packet Tracer` `Networking` `OSPF` `VLAN`
+
+
+🔗 [View Repository](https://github.com/Omarr127/Enterprise-Hospital-Network-Design.git)
 
 
 ---
+
+🛡️ AI-Based Network Traffic Classification System
+
+**Machine Learning + Network Security**
+
+An AI-based intrusion detection system that analyzes network traffic data to classify normal and malicious activities.
+
+Features:
+
+- Network traffic preprocessing and feature engineering
+- Machine learning-based intrusion detection
+- Classification of normal traffic and cyberattack categories
+- Comparison of multiple ML algorithms
+- Model evaluation and performance analysis
+
+Implemented Models:
+
+- Multi-Layer Perceptron (MLP)
+- XGBoost
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+
+Technologies:
+
+`Python` `Scikit-learn` `TCP/IP` `Network Protocols` `Packet Analysis` `Wireshark` `Intrusion Detection Systems (IDS)` `Network Traffic Analysis`
+
+🔗 [View Repository](https://github.com/Omarr127/AI-Based-Network-Traffic-Classification.git)
 
 ## 🧑‍🎓 Smart Student Performance Prediction System
 
@@ -179,34 +229,10 @@ Technologies:
 `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Jupyter Notebook`
 
 
-🔗 View Repository: [Smart Student Prediction System](YOUR_REPO_LINK)
+🔗 [View Repository](https://github.com/Omarr127/Smart_Student_Performance_Prediction_System.git)
 
 
 ---
-
-## 🏥 City Smart Hospital Network Design
-
-**Computer Networks Infrastructure Project**
-
-Designed and implemented a complete hospital enterprise network simulation.
-
-Implemented:
-
-- VLAN segmentation
-- Router-on-a-Stick
-- DHCP configuration
-- OSPF routing
-- NAT/PAT
-- Network failover
-- Traffic analysis
-
-Technologies:
-
-`Cisco Packet Tracer` `Networking` `OSPF` `VLAN`
-
-
-🔗 View Repository: [Hospital Network Design](YOUR_REPO_LINK)
-
 
 ---
 
@@ -232,55 +258,12 @@ Technologies:
 `ASP.NET Core` `SQL Server` `HTML` `CSS` `JavaScript`
 
 
-🔗 View Repository: [Medical Laboratory Management System](YOUR_REPO_LINK)
+🔗 [View Repository](https://github.com/Omarr127/Autonomous-Navigation-Robot.git)
 
 
 ---
 
-## 📡 AI-Based 5G Receiver (DeepRx)
 
-**AI + Wireless Communication System**
-
-An AI-powered 5G receiver system exploring deep learning approaches for improving wireless signal processing.
-
-Features:
-
-- 5G communication modeling
-- Deep learning receiver architecture
-- Signal processing optimization
-- Performance evaluation
-
-
-Technologies:
-
-`MATLAB` `5G Toolbox` `Deep Learning`
-
-
-🔗 View Repository: [AI-Based 5G Receiver](YOUR_REPO_LINK)
-
-
----
-
-## 📄 Enterprise Document Assistant using LLM & RAG
-
-**Generative AI Application**
-
-An intelligent document assistant that allows users to search and interact with documents using Large Language Models.
-
-Features:
-
-- Document understanding
-- Semantic search
-- Retrieval Augmented Generation
-- AI-powered question answering
-
-
-Technologies:
-
-`LLMs` `RAG` `LangChain` `Embeddings` `Vector Databases`
-
-
-🔗 View Repository: [LLM RAG Document Assistant](YOUR_REPO_LINK)
 
 
 ---
