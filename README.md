@@ -194,7 +194,7 @@ Implemented Models:
 
 Technologies:
 
-`Python` `Scikit-learn` `TCP/IP` `Network Protocols` `Packet Analysis` `Wireshark` `Intrusion Detection Systems (IDS)` `Network Traffic Analysis`
+`Python` `Scikit-learn` `TCP/IP` `Network Protocols`  `Wireshark` `Intrusion Detection Systems (IDS)` `Network Traffic Analysis`
 
 🔗 [View Repository](https://github.com/Omarr127/AI-Based-Network-Traffic-Classification.git)
 
