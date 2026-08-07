@@ -38,6 +38,28 @@ I am a **Communication and Computer Engineering undergraduate at Zewail City of 
 </p>
 
 
+## 📡 Network & Communication Systems
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C99?style=for-the-badge)
+![OSI Model](https://img.shields.io/badge/OSI_Model-0078D7?style=for-the-badge)
+![IPv4](https://img.shields.io/badge/IPv4_Addressing-1F8ACB?style=for-the-badge)
+![Subnetting](https://img.shields.io/badge/Subnetting-2E75B6?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANs-0066CC?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing_Concepts-005A9C?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/OSPF-0085CA?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-0096D6?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-00AEEF?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT%2FPAT-007ACC?style=for-the-badge)
+
+![Wireless Communication](https://img.shields.io/badge/Wireless_Communication-6A5ACD?style=for-the-badge)
+![5G/6G](https://img.shields.io/badge/5G%2F6G_Networks-483D8B?style=for-the-badge)
+![IoT Communication](https://img.shields.io/badge/IoT_Connectivity-4B0082?style=for-the-badge)
+![Digital Communications](https://img.shields.io/badge/Digital_Communications-663399?style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB900?style=for-the-badge)
+
 ## 🤖 AI / Machine Learning / Data Science
 
 <p>
