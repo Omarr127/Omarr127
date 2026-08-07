@@ -43,9 +43,9 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 
 ## 🗄️ Database Administrator Intern — iScore
 
-- Worked with relational database systems, SQL queries, and database management workflows
-- Applied concepts of data organization, validation, and database optimization
-- Supported database operations to maintain data consistency and reliability
+- Worked with **Oracle Database**, SQL queries, and database management workflows
+- Supported data organization, validation, and database backup operations
+- Assisted in maintaining database reliability, consistency, and operational performance
 
 ## 👨‍🏫 Junior Teaching Assistant — Zewail City of Science and Technology
 
