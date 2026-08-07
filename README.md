@@ -23,6 +23,32 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 - 🌱 Currently improving my skills in **Generative AI, AI deployment, Edge AI, and AI integration with communication networks**
 - 🎯 Open to opportunities in **Telecommunications, Network Engineering, AI/ML, Software Engineering, and Embedded AI**
 
+# 💼 Experience
+
+## 🧠 AI R&D Intern — ITIDA 
+
+- Working on **Generative AI, Large Language Models (LLMs), and Agentic AI applications**
+- Developing AI-powered solutions using **LLM workflows, prompt engineering, and AI integration techniques**
+- Exploring modern AI technologies for building intelligent and automated systems
+
+---
+
+## 🤖 Machine Learning Intern — National Telecommunication Institute (NTI)
+
+- Developed machine learning workflows using **Python and data science libraries**
+- Applied machine learning algorithms, data preprocessing, feature engineering, and model evaluation techniques
+- Built predictive models and analyzed performance using practical datasets
+
+---
+
+## 🗄️ Database Administrator Intern — iScore
+
+- Worked with relational database systems, SQL queries, and database management workflows
+- Applied concepts of data organization, validation, and database optimization
+- Supported database operations to maintain data consistency and reliability
+---
+
+
 # 🛠️ Skills & Technologies
 
 ## 💻 Programming Languages
