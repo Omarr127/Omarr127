@@ -272,6 +272,8 @@ Technologies:
 
 ## 🏅 Egyptian Collegiate Programming Contest (ECPC)
 
+**Competitive Programming Competition**
+
 - Qualified for the **ECPC Finals**
 - Achieved **2nd Place at the university level**
 - Ranked **43rd among teams across Egypt**
@@ -279,6 +281,8 @@ Technologies:
 ---
 
 ## 🚀 Hult Prize Competition
+
+**Technical Startup & Entrepreneurship Competition**
 
 - Selected as a **Top 15 Finalist among 65 teams**
 - Achieved **4th Place Overall**
@@ -288,13 +292,13 @@ Technologies:
 
 ## 🤖 Solship AI Hackathon
 
-**Cairo, Egypt | May 2026**
+**AI & Machine Learning Energy Innovation Hackathon**
+
 
 - Selected among the **Top 30 participants out of 350+ applicants across Egypt**
 - Developed an **AI-powered energy trading solution**
 - Achieved **40% improvement in simulated trading revenue**
-- Applied **AI optimization, forecasting, and data-driven strategies** for electricity market applications
-
+- Applied **machine learning, optimization, and forecasting techniques** for electricity market strategies
 ---
 
 ---
@@ -303,11 +307,11 @@ Technologies:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Omarr127&show_icons=true&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarr127&theme=tokyonight"/>
 
 </div>
 
@@ -318,11 +322,11 @@ Technologies:
 
 <div align="center">
 
-📧 Email: YOUR_EMAIL
+📧 Email: s-omar.samir@zewailcity.edu.eg
 
-🔗 LinkedIn: YOUR_LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/omar-tamer-0a1361357/
 
-💻 GitHub: YOUR_USERNAME
+💻 GitHub: https://github.com/Omarr127/Omarr127
 
 </div>
 
