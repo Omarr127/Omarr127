@@ -46,6 +46,12 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 - Worked with relational database systems, SQL queries, and database management workflows
 - Applied concepts of data organization, validation, and database optimization
 - Supported database operations to maintain data consistency and reliability
+
+## 👨‍🏫 Junior Teaching Assistant — Zewail City of Science and Technology
+
+- Assisted students during laboratory sessions for **Fundamentals of Computer Programming and Object-Oriented Programming (OOP) using C++**
+- Supported students in understanding programming concepts, problem-solving techniques, and debugging practices
+- Assisted in **Linear Algebra and Vector Geometry** coursework by explaining mathematical concepts and guiding students through problem-solving approaches
 ---
 
 
