@@ -341,22 +341,6 @@ Project Highlights:
 
 ---
 
-# 📚 Currently Learning
-
-```
-Advanced Deep Learning
-        ↓
-Computer Vision
-        ↓
-Large Language Models
-        ↓
-Agentic AI
-        ↓
-Embedded AI Deployment
-        ↓
-Autonomous Intelligent Systems
-```
-
 ---
 
 # 📊 GitHub Statistics
