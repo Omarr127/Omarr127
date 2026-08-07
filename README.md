@@ -15,18 +15,17 @@
 ---
 # 🚀 About Me
 
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Network & Communication Systems, Artificial Intelligence, Embedded AI, Software Engineering, and Wireless Communication**.
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in developing intelligent systems using **Network & Communication Systems, Artificial Intelligence, Embedded AI, Software Engineering, and Wireless Communication**.
 
-📡 Interested in **communication networks and network infrastructure**, including **TCP/IP protocols, routing and switching, wireless communication systems, IoT connectivity, digital communications, network optimization, and next-generation networks such as 5G/6G technologies**
+📡 Interested in **communication networks and infrastructure**, including **TCP/IP, routing and switching, wireless communications, IoT connectivity, digital communications, and next-generation networks such as 5G/6G**.
 
-🧠 Experienced in developing **end-to-end machine learning workflows, predictive models, computer vision applications, and AI-driven products**
+🧠 Experienced in developing **end-to-end machine learning workflows, predictive models, computer vision applications, and AI-driven solutions**.
 
-🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges, including **intelligent communication systems, AI-driven networks, and autonomous platforms**
+🤖 Passionate about applying **AI in different domains**, including **intelligent communication systems, AI-driven networks, and autonomous systems**.
 
-🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, Edge AI, autonomous intelligent systems, and the integration of AI with communication systems for intelligent networking and next-generation wireless technologies**
+🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, Edge AI, and AI integration with communication systems**.
 
-🎯 Open to internships and collaborations in **Network & Communication Systems, AI & Machine Learning, Software Engineering, and Embedded AI Systems**.
-
+🎯 Open to internships and collaborations in **Network & Communication Engineering, AI & Machine Learning, Software Engineering, and Embedded AI**.
 
 # 🛠️ Skills & Technologies
 
