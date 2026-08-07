@@ -272,25 +272,17 @@ Technologies:
 
 ## 🏅 Egyptian Collegiate Programming Contest (ECPC)
 
-- Qualified for **ECPC Finals**
-- Achieved **2nd place at university level**
-- Ranked **43rd overall in Egypt**
-
+- Qualified for the **ECPC Finals**
+- Achieved **2nd Place at the university level**
+- Ranked **43rd among teams across Egypt**
 
 ---
 
 ## 🚀 Hult Prize Competition
 
-- **Top 15 Finalist out of 65 teams**
+- Selected as a **Top 15 Finalist among 65 teams**
 - Achieved **4th Place Overall**
 - Developed **GenUPX**, an AI-powered personalized learning platform
-
-Project Highlights:
-
-- AI-based personalized education
-- Intelligent learning assistant
-- Low-bandwidth RAG system using educational resources
-
 
 ---
 
@@ -299,10 +291,9 @@ Project Highlights:
 **Cairo, Egypt | May 2026**
 
 - Selected among the **Top 30 participants out of 350+ applicants across Egypt**
-- Developed an AI-driven energy trading solution
-- Improved simulated trading revenue by **40%**
-- Applied AI optimization and forecasting techniques for electricity market strategies
-
+- Developed an **AI-powered energy trading solution**
+- Achieved **40% improvement in simulated trading revenue**
+- Applied **AI optimization, forecasting, and data-driven strategies** for electricity market applications
 
 ---
 
