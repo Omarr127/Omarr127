@@ -1,116 +1,191 @@
 
 
-<div align="center">
-
 # 👋 Hi, I'm Omar Tamer
 
-### Computer and Communication Engineering Student  
+### Computer and Communication Engineering Student
+
 ### Zewail City of Science and Technology
 
-<br>
-
-## Network & Communication Systems | AI & Machine Learning |  Embedded AI Systems
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Embedded+AI+Engineer;Software+Engineer;Building+Autonomous+Systems;Developing+AI+Driven+Applications" />
-<br>
-
-</div>
+## Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
 
 ---
+
 # 🚀 About Me
 
-I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, interested in building intelligent systems and developing practical solutions using **Artificial Intelligence, Software Engineering, Embedded AI, and Wireless Communication**.
+I am a **Computer and Communication Engineering undergraduate at Zewail City of Science and Technology**, passionate about designing and developing intelligent systems that combine **Artificial Intelligence, Computer Networks, Wireless Communications, Embedded Systems, and Software Engineering**.
 
-🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven products**
+📡 Interested in **communication networks, wireless technologies, and network infrastructure**, including **TCP/IP networking, routing and switching, network protocols, IoT communication, 5G/6G technologies, and AI-driven communication systems**
 
-🤖 Interested in applying **AI across different domains** to create innovative solutions for real-world challenges
+🧠 Experienced in developing **machine learning workflows, predictive models, computer vision applications, and AI-driven solutions**
 
-🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, and autonomous intelligent systems**
+🤖 Interested in integrating **AI with communication systems, edge devices, and autonomous platforms** to build efficient and intelligent real-world applications
+
+⚡ Experienced with **embedded platforms, sensor-based systems, hardware-software integration, and AI deployment on edge devices**
+
+🌱 Currently improving my skills in **Generative AI, LLMs, RAG systems, AI deployment, intelligent networking, and autonomous intelligent systems**
+
+---
 
 # 💡 Areas of Interest
 
-🤖 **Artificial Intelligence & Machine Learning**  
-Developing machine learning workflows, deep learning models, and data-driven applications.
+## 🤖 Artificial Intelligence & Machine Learning
 
-👁️ **Computer Vision & AI Applications**  
-Building vision-based systems and intelligent solutions for real-world automation and decision-making.
-
-🧠 **Generative AI & LLM Applications**  
-Exploring LLMs, RAG systems, embeddings, vector databases, and AI-powered assistants.
-
-⚡ **Embedded AI & Autonomous Systems**  
-Developing intelligent systems that combine AI algorithms with embedded platforms and real-world environments.
-
-📡 **Wireless Communication & AI for Communications**  
-Interested in wireless technologies, Netwrok infrastrcuture, intelligent signal processing, and AI-driven communication systems.
-
-💻 **Software Engineering**  
-Building scalable software applications, backend systems, and reliable engineering solutions.
+Developing machine learning workflows, deep learning models, computer vision systems, and data-driven applications using modern AI techniques.
 
 ---
 
-🎯 Open to internships and collaborations in AI Engineering, Machine Learning, Software Engineering, Computer Networks,and Wireless Communication.
+## 👁️ Computer Vision & AI Applications
+
+Building vision-based intelligent systems for automation, perception, decision-making, and real-world problem solving.
+
+---
+
+## 🧠 Generative AI & LLM Applications
+
+Exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, AI agents, and intelligent assistants**.
+
+---
+
+## ⚡ Embedded AI & Autonomous Systems
+
+Developing intelligent edge systems that combine **AI algorithms, embedded hardware, sensors, IoT platforms, and real-time processing** for autonomous applications.
+
+---
+
+## 📡 Network & Communication Systems
+
+Interested in **computer networks, wireless communication, and next-generation communication technologies**.
+
+Areas of interest include:
+
+- **TCP/IP Protocol Suite and Network Architecture**
+- **Routing, Switching, and Network Infrastructure**
+- **LAN/WAN Technologies and Network Design**
+- **Wireless Communication Systems**
+- **5G/6G Networks and Future Communication Technologies**
+- **IoT Connectivity and Edge Networking**
+- **Software Defined Networking (SDN)**
+- **Network Performance Optimization**
+- **AI for Networking and Intelligent Communication Systems**
+- **Digital Signal Processing (DSP) for Communication Applications**
+
+---
+
+## 💻 Software Engineering
+
+Building scalable software applications, backend systems, APIs, and reliable engineering solutions with strong foundations in software design and development.
+
+---
+
+🎯 Open to internships and collaborations in:
+
+**AI Engineering | Machine Learning | Embedded AI | Computer Networks | Network Engineering | Wireless Communication | Communication Systems | Software Engineering**
+
+---
 
 # 🛠️ Skills & Technologies
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge"/>
-</p>
+Python | C++ | C | C# | JavaScript | SQL | MATLAB
 
+---
 
 ## 🤖 AI / Machine Learning / Data Science
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/Computer%20Vision-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-F7931E?style=for-the-badge&logo=Numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-F7931E?style=for-the-badge&logo=Pandas&logoColor=white"/>
-</p>
-<p>
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Predictive Modeling
+- Data Analysis
+
+Technologies:
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- OpenCV
+- NumPy
+- Pandas
+- LangChain
+- FAISS
+- ChromaDB
+
+---
+
+## 🌐 Computer Networks & Communication Technologies
+
+- TCP/IP Networking
+- Network Architecture
+- Routing & Switching Concepts
+- Network Protocols
+- IPv4 / IPv6
+- Subnetting and Addressing
+- LAN / WAN Technologies
+- Wireless Networks
+- 4G / 5G Communication Concepts
+- IoT Communication Protocols
+- Network Security Fundamentals
+- Software Defined Networking (SDN)
+- Network Simulation Concepts
+- Signal Processing for Communications
+- Digital Communications
+
+Technologies:
+
+- Cisco Networking Concepts
+- Wireshark
+- MATLAB Communications Toolbox
+- NS-3 / Network Simulation Tools
+
+---
 
 ## 🌐 Web Technologies & Frameworks
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- .NET Core
+- REST APIs
+- Backend Development
+- Database Design
+
+---
 
 ## ⚡ Embedded Systems & Hardware
 
-<p>
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PIC%20Microcontrollers-00878F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+- Embedded C/C++
+- Microcontrollers
+- STM32
+- ESP32
+- Arduino
+- Raspberry Pi
+- PIC Microcontrollers
+- Sensor Integration
+- IoT Systems
+- Edge AI Deployment
+- Hardware-Software Integration
+- Real-Time Embedded Systems
+
+---
 
 ## ☁️ Cloud & DevOps
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- AWS
+- Microsoft Azure
+- Docker
+- Git & GitHub
+- Linux
+- Cloud Computing Concepts
+- Deployment Pipelines
+- Containerized Applications
 
 # 📌 Featured Projects
 
