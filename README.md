@@ -2,8 +2,10 @@
 
 # 👋 Hi, I'm Omar Tamer
 
-### Communication & Computer Engineering Student  
-### AI Engineer | Software Engineer | Embedded AI Engineer  
+### Communication & Computer Engineering Student
+
+### Network & Communication Systems | AI & Machine Learning | Embedded AI Systems
+
 ### Building Intelligent & Autonomous Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Software+Engineering+Enthusiast;Embedded+AI+Engineer;Computer+Vision+Developer;Building+Intelligent+Autonomous+Systems" />
