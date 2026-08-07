@@ -333,8 +333,4 @@ Technologies:
 
 ---
 
-<div align="center">
 
-⭐ Building intelligent systems that connect AI, software, and the real world.
-
-</div>
