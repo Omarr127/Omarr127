@@ -154,6 +154,27 @@ I am a senior **Communication and Computer Engineering student at Zewail City of
 
 # 📌 Featured Projects
 
+🤖 **Agentic AI Resarch Assistant**
+
+**Agentic AI + LLMs + LangGraph + Tool Calling**
+
+A modular AI agent designed to reason, use external tools, maintain memory, and execute multi-step tasks.
+
+Features:
+
+- ReAct-based agentic reasoning
+- Dynamic tool calling and workflow routing
+- Web search, weather API, and safe code evaluation
+- Short-term and persistent memory
+- Multi-provider LLM support
+
+Technologies:
+
+`Python` `LangChain` `LangGraph` `ReAct` `OpenAI` `Anthropic` `Google`
+
+🔗 [View Repository](https://github.com/Omarr127/Agentic-Ai-tool-using-LLM.git)
+
+
 ## 🤖AI-Powered Autonomous Navigation Robot
 
 **Embedded AI + Computer Vision + Robotics**
